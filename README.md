@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @mecsung
-- 👀 I’m interested in Computer Vision, Data Analytics, Artificial Intelligence, Game Development, Application and Web Development
-- 🌱 I’m currently learning Web Frameworks (Symfony 4 and BootstrapVue), and Machine Learning Algorithms
+- 👀 I’m a Computer Science Student interested in Machine Learning, Natural Languange Processing, Artificial Intelligence, Game Development, Application and Web Development
 - ⚡ Fun fact: I love to draw and play guitar
 
 ### Connect with me:
 
-[<img align="left" alt="Mecsung | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Mecsung | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Mecsung | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
