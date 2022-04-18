@@ -31,5 +31,5 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-[twitter]: https://facebook.com/mecsung
+[facebook]: https://facebook.com/mecsung
 [linkedin]: https://linkedin.com/in/mec-sung-465a66223/
