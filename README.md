@@ -4,7 +4,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Mecsung | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Mecsung | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][facebook]
 [<img align="left" alt="Mecsung | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
@@ -31,6 +31,5 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-[twitter]: https://twitter.com/mecsung
-[youtube]: https://youtube.com/channel/UCald393ebDI_uI1edrBDffw
+[twitter]: https://facebook.com/mecsung
 [linkedin]: https://linkedin.com/in/mec-sung-465a66223/
