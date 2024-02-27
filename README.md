@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mecsung
-- 👀 I’m a Computer Science Student interested in Machine Learning, Natural Languange Processing, Artificial Intelligence, Game Development, Application and Web Development
+- 👀 BS Computer Science Graduate
 - ⚡ Fun fact: I love to draw and play guitar
 
 ### Connect with me:
